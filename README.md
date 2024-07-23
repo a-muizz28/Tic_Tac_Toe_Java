@@ -23,7 +23,7 @@ To get started with the Tic Tac Toe game, you need to have Java installed on you
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/tic-tac-toe.git
+    git clone https://github.com/a-muizz28/tic-tac-toe.git
     ```
 
 2. Navigate to the project directory:
